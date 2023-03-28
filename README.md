@@ -10,10 +10,10 @@ Long Ma (2761790)
 ###requirements
 please run the following cells to install all:
 
-# ! pip install pandas
-# ! pip install sklearn
-# ! pip install gensim 
-# ! pip install numpy 
+! pip install pandas
+! pip install sklearn
+! pip install gensim 
+! pip install numpy 
 
 ### Files
 Current zip file holds following files for feature extraction, classification experiment, hyper-parameter tuing, feature ablation, and final system validation:
