@@ -24,6 +24,6 @@ Current zip file holds following files for feature extraction, classification ex
 - ```Experiment.ipynb```: a jupiter notebook containing all functions for feature extraction, classification experiment, hyper-parameter tuing, feature ablation, and final system validation.
 
 
-- ```word_embedding_system.ipynb```: a jupiter notebook to incoporate word embeddings and one-hot encoding as feature representation for system experiment.
+- ```word_embedding_basic_system.ipynb```: a jupiter notebook to incoporate word embeddings and one-hot encoding as feature representation for system experiment.
 
 
